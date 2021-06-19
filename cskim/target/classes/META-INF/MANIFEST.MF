@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: cskim
-Build-Jdk: 11.0.11
-Implementation-Title: cskim
-Implementation-Version: 1.0.0-SNAPSHOT
-Implementation-Vendor-Id: com.example
-Implementation-Vendor: Pivotal Software, Inc.
-Created-By: Maven Integration for Eclipse
-
